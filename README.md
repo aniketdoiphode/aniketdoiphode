@@ -1,5 +1,5 @@
 ## Hi 👋, I'm Aniket Doiphode
-A passionate Data Science enthusiast from India
+Turning data into actionable strategies—committed to solving problems through analytics, machine learning, and visualization.
 
 - 🌱 I’m currently learning **Data Science**
 - 📂 All of my projects are available at [https://www.linkedin.com/in/aniket-doiphode](https://github.com/aniketdoiphode)

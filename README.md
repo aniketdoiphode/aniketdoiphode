@@ -3,20 +3,21 @@
 Turning data into actionable strategies—committed to solving problems through analytics, machine learning, and visualization.
 
 ## 📌 About Me  
-🌱 Currently enhancing my machine learning and deep learning skills to solve real-time problems.  
-🎓 BCA Graduate (8.07 CGPA) from Dr. D Y Patil ACS College, Pune. 
+- 🌱 Currently enhancing my machine learning and deep learning skills to solve real-time problems.  
+- 🎓 BCA Graduate (8.07 CGPA) from Dr. D Y Patil ACS College, Pune. 
+- 📫 How to reach me **aniketdoiphode05@gmail.com**
 
 ## 💻 Skills & Technologies  
 
-### **Programming & Query Languages:**  
+#### **Programming & Query Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-### **Data Science & Machine Learning:**  
+#### **Data Science & Machine Learning:**  
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat&logo=googlecolab&logoColor=white)  
 ![Deep Learning (TensorFlow)](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)  
 
-### **Data Visualization & Analytics:**  
+#### **Data Visualization & Analytics:**  
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  

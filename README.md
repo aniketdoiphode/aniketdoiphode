@@ -2,7 +2,7 @@
 A passionate Data Science enthusiast from India
 
 - 🌱 I’m currently learning **Data Science**
-- 📂 All of my projects are available at https://www.linkedin.com/in/aniket-doiphode
+- 📂 All of my projects are available at [https://www.linkedin.com/in/aniket-doiphode](https://github.com/aniketdoiphode)
 - 📫 How to reach me **aniketdoiphode05@gmail.com**
 
 ## Connect with me:

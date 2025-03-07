@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Aniket Doiphode  
 
-##### Turning data into actionable strategies—committed to solving problems through analytics, machine learning, and visualization.
+Turning data into actionable strategies—committed to solving problems through analytics, machine learning, and visualization.
 
 ## 📌 About Me  
 🌱 Currently enhancing my machine learning and deep learning skills to solve real-time problems.  
@@ -35,9 +35,5 @@
 - [Certification in Machine Learning with Python – IBM](https://drive.google.com/file/d/15Um3IzkPuRC-cH5xQUHde_gB9i02Uy4L/view?usp=sharing)  
 
 
-## 💡 Hobbies  
-🏏 Playing Cricket
-🌐 Exploring New Technologies  
-
-💫 _"Data Science is not just about numbers; it's the art of finding stories hidden in data"_ 💫
+💫 **_"Data Science is not just about numbers; it's the art of finding stories hidden in data"_** 💫
 

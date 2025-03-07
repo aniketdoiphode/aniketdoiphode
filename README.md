@@ -35,6 +35,7 @@ Turning data into actionable strategies—committed to solving problems through 
 - [Certification in Python for Data Science – IBM](https://drive.google.com/file/d/13VsDmc2FtZho2LURi_YggFp31oE3WYzb/view?usp=sharing)  
 - [Certification in Machine Learning with Python – IBM](https://drive.google.com/file/d/15Um3IzkPuRC-cH5xQUHde_gB9i02Uy4L/view?usp=sharing)  
 
+ 
 
-💫 **_"Data Science is not just about numbers; it's the art of finding stories hidden in data"_** 💫
+ 💫 _"Data Science is not just about numbers; it's the art of finding stories hidden in data"_ 💫
 

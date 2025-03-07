@@ -6,7 +6,7 @@ A passionate Data Science enthusiast from India
 - 📫 How to reach me **aniketdoiphode05@gmail.com**
 
 ## Connect with me:
-[[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/aniket-doiphode)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/aniket-doiphode)
 
 ## Languages and Tools:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)

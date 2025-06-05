@@ -2,6 +2,10 @@
 
 Turning data into actionable strategies—committed to solving problems through analytics, machine learning, and visualization.
 
+<p align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aniketdoiphode.aniketdoiphode" alt="Visitor badge" />
+</p>
+
 ## 📌 About Me  
 - 🌱 Currently enhancing my machine learning and deep learning skills to solve real-time problems.  
 - 🎓 BCA Graduate (8.07 CGPA) from Dr. D Y Patil ACS College, Pune. 

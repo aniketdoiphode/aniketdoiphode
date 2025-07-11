@@ -32,12 +32,21 @@ Turning data into actionable strategies—committed to solving problems through 
 - ⭐ **4-Star** Gold Badge on HackerRank for **SQL**
 - ⭐ **3-Star** Gold Badge on HackerRank for **Python**
 - 🎉 **Top-performing candidate**, At IT Vedant with an overall **88.83% (A+ grade)**.
- 
+
 
 ## 📜 Certifications  
 - [Certification in Data Analysis with Python – IBM](https://drive.google.com/file/d/1Tpd9gOZeKqT48Va-SLzj75XZoNZvodSe/view?usp=sharing)  
 - [Certification in Python for Data Science – IBM](https://drive.google.com/file/d/13VsDmc2FtZho2LURi_YggFp31oE3WYzb/view?usp=sharing)  
 - [Certification in Machine Learning with Python – IBM](https://drive.google.com/file/d/15Um3IzkPuRC-cH5xQUHde_gB9i02Uy4L/view?usp=sharing)
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=Suhas2002G&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketdoiphode&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas2002G&layout=compact&theme=radical" alt="Top Languages" /> -->
+</div>
   
   💫 _"Data Science is not just about numbers; it's the art of finding stories hidden in data"_ 💫
 

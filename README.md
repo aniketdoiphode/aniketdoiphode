@@ -12,7 +12,6 @@ Turning data into actionable strategies—committed to solving problems through 
 - 📫 How to reach me **aniketdoiphode05@gmail.com**
 
 ## 💻 Skills & Technologies  
-
 #### **Programming & Query Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
@@ -28,10 +27,26 @@ Turning data into actionable strategies—committed to solving problems through 
 
 
 ## 📜 My Credly Badges
-[![Python for Data Science](Credly batches images/Python for DS.png)]([https://www.credly.com/badges/bfec124f-8c5e-42a5-888c-7a52e891231e/public_url](https://www.credly.com/badges/e11831ee-9f84-4172-9174-10e489cfb010/public_url))
+<p align="center">
+  <a href="https://www.credly.com/badges/bfec124f-8c5e-42a5-888c-7a52e891231e/public_url" target="_blank">
+    <img src="https://raw.githubusercontent.com/aniketdoiphode/aniketdoiphode/main/Credly%20batches%20images/DA-With-python.png" alt="DA With Python" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/your-badge-url-2" target="_blank">
+    <img src="https://raw.githubusercontent.com/aniketdoiphode/aniketdoiphode/main/Credly%20batches%20images/ML-Foundations.png" alt="ML Foundations" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/your-badge-url-3" target="_blank">
+    <img src="https://raw.githubusercontent.com/aniketdoiphode/aniketdoiphode/main/Credly%20batches%20images/ML.png" alt="Machine Learning" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/your-badge-url-4" target="_blank">
+    <img src="https://raw.githubusercontent.com/aniketdoiphode/aniketdoiphode/main/Credly%20batches%20images/Python-for-DS.png" alt="Python for DS" width="100"/>
+  </a>
+  <a href="https://www.credly.com/badges/your-badge-url-5" target="_blank">
+    <img src="https://raw.githubusercontent.com/aniketdoiphode/aniketdoiphode/main/Credly%20batches%20images/compute.png" alt="Compute" width="100"/>
+  </a>
+</p>
 
 ## 🏆 Achievements  
-- 🥉 **2nd Rank**, TechnoCase Competition 2024 by IICMR
+- 🥉 **2nd Rank**, TechnoCase Competition 2024 by IICMR  
 - ⭐ **4-Star** Gold Badge on HackerRank for **SQL**
 - ⭐ **3-Star** Gold Badge on HackerRank for **Python**
 - 🎉 **Top-performing candidate**, At IT Vedant with an overall **88.83% (A+ grade)**.
@@ -44,7 +59,6 @@ Turning data into actionable strategies—committed to solving problems through 
 
 
 ## 📊 GitHub Stats
-
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Suhas2002G&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketdoiphode&theme=radical" alt="GitHub Streak" />

@@ -27,6 +27,9 @@ Turning data into actionable strategies—committed to solving problems through 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)  
 
 
+## 📜 My Credly Badges
+[![Python for Data Science](Credly batches images/Python for DS.png)]([https://www.credly.com/badges/bfec124f-8c5e-42a5-888c-7a52e891231e/public_url](https://www.credly.com/badges/e11831ee-9f84-4172-9174-10e489cfb010/public_url))
+
 ## 🏆 Achievements  
 - 🥉 **2nd Rank**, TechnoCase Competition 2024 by IICMR
 - ⭐ **4-Star** Gold Badge on HackerRank for **SQL**

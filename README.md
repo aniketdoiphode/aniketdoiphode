@@ -58,10 +58,10 @@ Turning data into actionable strategies—committed to solving problems through 
 - [Certification in Machine Learning with Python – IBM](https://drive.google.com/file/d/15Um3IzkPuRC-cH5xQUHde_gB9i02Uy4L/view?usp=sharing)
 
 
-## 📊 GitHub Stats
+
 <div align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api?username=Suhas2002G&show_icons=true&theme=radical" alt="GitHub Stats" /> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketdoiphode&theme=radical" alt="GitHub Streak" />
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketdoiphode&theme=radical" alt="GitHub Streak" /> -->
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suhas2002G&layout=compact&theme=radical" alt="Top Languages" /> -->
 </div>
   

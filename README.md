@@ -46,8 +46,8 @@ Turning data into actionable strategies—committed to solving problems through 
 </p>
 
 ## 🏆 Achievements  
-- 🥉 **2nd Rank**, Code Quest - Summer of Code 2025 by **HackerRank**
-- 🥉 **2nd Rank**, TechnoCase Competition 2024 by **IICMR**  
+- 🥈 **2nd Rank**, Code Quest - Summer of Code 2025 by **HackerRank**
+- 🥈 **2nd Rank**, TechnoCase Competition 2024 by **IICMR**  
 - ⭐ **4-Star** Gold Badge on HackerRank for **SQL**
 - 🎉 **Top-performing candidate**, At IT Vedant with an overall **88.83% (A+ grade)**.
 
